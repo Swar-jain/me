@@ -7,5 +7,7 @@ Code inspired from the freecodecamp blog '[How to create your portfolio website 
   - navigate to folder `portfolio-app`
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
+
+- Deployed at : https://swar-jain.github.io/me/
     
 
